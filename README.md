@@ -1,3 +1,7 @@
+# Components folder:
+
+Components folder in SRC containes diffrent mini examples of MUI add them in app.tsx file to check output
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
